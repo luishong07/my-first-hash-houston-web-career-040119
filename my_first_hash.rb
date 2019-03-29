@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-your_has = {"pi"=>
+your_has = {"pi"=> "3.1415...","e" => " 2.71828...", "phi"=> "1.61828"
   
 end
 
